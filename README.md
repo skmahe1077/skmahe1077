@@ -1,14 +1,14 @@
 
-### Hi there 👋, I'm Mahendran Selvakumar
+### Hi there 👋, I'm Mahendran Selvakumar 🚀 Welcome to my GitHub profile! 🛠
 
-Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep expertise in orchestrating containerized applications and managing cloud infrastructure. Over the years, I have honed my skills in **Kubernetes**, **Docker**, and a variety of DevOps tools to streamline deployment workflows, automate infrastructure management, and ensure secure, scalable cloud solutions.
+Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep expertise in orchestrating containerized applications and managing cloud infrastructure. Over the years, I have honed my skills in **AWS**,**Terraform**, **Kubernetes**, **Docker**, and a variety of DevOps tools to streamline deployment workflows, automate infrastructure management, and ensure secure, scalable cloud solutions.
 
 ### 🔧 **Skills & Expertise**
 - **Container Orchestration**: Kubernetes, Docker, Helm, Kustomize, Istio, Lens-Kubernetes IDE
 - **Cloud Platforms**: AWS, Azure
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
 - **Secrets Management**: HashiCorp Vault
-- **CI/CD & Automation**: Git, GitHub, Jenkins, Azure DevOps
+- **CI/CD & Automation**: GitHub, Jenkins, Azure DevOps
 - **Service Mesh**: Istio
 - **Version Control**: Git (for streamlined collaboration and version control)
 
