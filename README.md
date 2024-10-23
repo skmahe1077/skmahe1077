@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep e
 ### 💼 **Professional Experience**
 I specialize in streamlining infrastructure management, automating provisioning, and ensuring secure, consistent cloud deployments across hybrid environments. By leveraging tools such as **Terraform** for Infrastructure as Code (IaC), **HashiCorp Vault** for secrets management, and **Ansible** for configuration management, I focus on driving operational efficiency and improving deployment pipelines.
 
-###🏅 **Ambassador Roles**
+### 🏅 **Ambassador Roles**
 - **DevOps Institute Ambassador – DevOps Institute**
 - **Calico Big Cat Ambassador – Project Calico**
 
@@ -34,7 +34,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - **Microsoft Certified Professional (MCPS)**
 - **Microsoft Certified Solutions Expert (MCSE)**
 
-###📘 **Courses Completed**
+### 📘 **Courses Completed**
 - **Istio Service Mesh – KodeKloud**
 - **Kustomize – KodeKloud**
 - **Lens - Kubernetes IDE – KodeKloud**
