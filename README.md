@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi there 👋, I'm Mahendran Selvakumar
+Welcome to my GitHub profile! I'm an experienced DevOps Engineer with deep expertise in orchestrating containerized applications and managing cloud infrastructure. Over the years, I have honed my skills in Kubernetes, Docker, and a variety of DevOps tools to streamline deployment workflows, automate infrastructure management, and ensure secure, scalable cloud solutions.
+
+🔧 Skills & Expertise
+Container Orchestration: Kubernetes, Docker, Helm, Kustomize, Istio, Lens-Kubernetes IDE
+Cloud Platforms: AWS, Azure (Hybrid Cloud Management)
+Infrastructure as Code (IaC): Terraform, Ansible
+Secrets Management: HashiCorp Vault
+CI/CD & Automation: Git, GitHub, Jenkins, Azure DevOps
+Service Mesh: Istio
+Version Control: Git (for streamlined collaboration and version control)
 
 <!--
 **skmahe1077/skmahe1077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
