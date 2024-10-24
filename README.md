@@ -61,5 +61,6 @@ I specialize in streamlining infrastructure management, automating provisioning,
 ### ⚡ **Fun Fact**
 I enjoy continuously exploring new cloud technologies and open-source tools to stay at the forefront of DevOps innovation, while also mentoring and sharing knowledge with the community.
 
+## Profile Views
 
-**skmahe1077/skmahe1077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=skmahe1077" alt="Mahendran Selvakumar" /> <h2>
