@@ -37,7 +37,10 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - **Microsoft Certified Professional (MCPS)**
 - **Microsoft Certified Solutions Expert (MCSE)**
 
-
+<img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
+<img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
+<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
+<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
 
 ### 📘 **Courses Completed**
 - **Istio Service Mesh – KodeKloud**
