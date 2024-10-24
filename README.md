@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Mahendran Selvakumar 🚀 Welcome to my GitHub profile! 🛠
+### Hi there 👋, I'm Mahendran Selvakumar
 
 Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep expertise in orchestrating containerized applications and managing cloud infrastructure. Over the years, I have honed my skills in **AWS**,**Terraform**, **Kubernetes**, **Docker**, and a variety of DevOps tools to streamline deployment workflows, automate infrastructure management, and ensure secure, scalable cloud solutions.
 
