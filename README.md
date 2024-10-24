@@ -23,7 +23,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - **Calico Big Cat Ambassador – Project Calico**
 
 ### 📜 **Certifications**
-- **AWS Certified DevOps Engineer – Professional**
+- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/cdb7ddae-becd-40ab-bd16-7be2d9f8c4d3/linked_in?t=rymjum)
 - **HashiCorp Certified Vault Associate**
 - **HashiCorp Certified Terraform Associate**
 - **GitHub Copilot Certification**
@@ -33,6 +33,8 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - **Microsoft Certified Solutions Associate (MCSA)**
 - **Microsoft Certified Professional (MCPS)**
 - **Microsoft Certified Solutions Expert (MCSE)**
+
+
 
 ### 📘 **Courses Completed**
 - **Istio Service Mesh – KodeKloud**
