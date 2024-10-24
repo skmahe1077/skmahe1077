@@ -3,6 +3,15 @@
 
 Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep expertise in orchestrating containerized applications and managing cloud infrastructure. Over the years, I have honed my skills in **AWS**,**Terraform**, **Kubernetes**, **Docker**, and a variety of DevOps tools to streamline deployment workflows, automate infrastructure management, and ensure secure, scalable cloud solutions.
 
+
+## **Connect with Me On Social Media** 🤝🏻
+
+<h3 align="left">
+<a href="https://www.linkedin.com/in/mahendran-selvakumar-36444a77/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://x.com/devopstronaut" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+
+<br>
+
 <h2>Techology Stack and Experience 💻</h2>
 
 <p>
@@ -58,9 +67,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - **Kubernetes Administrator – Edureka**
 - **Calico Virtualization Operator - Level 1 – Tigera**
 
-### 📫 **How to reach me**
-- [LinkedIn](https://www.linkedin.com/in/mahendran-selvakumar-36444a77/)
-- [Email](mailto:skmahe1077@gmail.com)
+
 
 ### ⚡ **Fun Fact**
 I enjoy continuously exploring new cloud technologies and open-source tools to stay at the forefront of DevOps innovation, while also mentoring and sharing knowledge with the community.
