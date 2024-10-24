@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep e
   <img alt="consul" src="https://img.shields.io/badge/Consul-E03875?style=for-the-badge&logo=Consul&logoColor=white" width="100" height="30" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
-  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
+  <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" width="130" height="30"/>
   
 ### 🌱 **Currently Learning**
 - Exploring advanced **Kubernetes** configurations, **GitOps** workflows
