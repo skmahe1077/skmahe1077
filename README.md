@@ -3,15 +3,18 @@
 
 Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep expertise in orchestrating containerized applications and managing cloud infrastructure. Over the years, I have honed my skills in **AWS**,**Terraform**, **Kubernetes**, **Docker**, and a variety of DevOps tools to streamline deployment workflows, automate infrastructure management, and ensure secure, scalable cloud solutions.
 
-### 🔧 **Skills & Expertise**
-- **Container Orchestration**: Kubernetes, Docker, Helm, Kustomize, Istio, Lens-Kubernetes IDE
-- **Cloud Platforms**: AWS, Azure
-- **Infrastructure as Code (IaC)**: Terraform, Ansible
-- **Secrets Management**: HashiCorp Vault
-- **CI/CD & Automation**: GitHub, Jenkins, Azure DevOps
-- **Service Mesh**: Istio
-- **Version Control**: Git (for streamlined collaboration and version control)
+<h2>Techology Stack and Experience 💻</h2>
 
+<p>
+  
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="80" height="30"/>
+  <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
+  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=Vault&logoColor=black" width="80" height="30" />
+  <img alt="consul" src="https://img.shields.io/badge/Consul-E03875?style=for-the-badge&logo=Consul&logoColor=white" width="100" height="30" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
+  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
+  
 ### 🌱 **Currently Learning**
 - Exploring advanced **Kubernetes** configurations, **GitOps** workflows
   
