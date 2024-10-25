@@ -43,7 +43,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - [HashiCorp Certified Vault Associate](https://www.credly.com/badges/5f4ebf9d-be6f-4c71-8236-1fae5fb029a2/)
 - [HashiCorp Certified Terraform Associate](https://www.credly.com/badges/fb951e61-e2f1-4daf-95c1-f8c2c0ffa59b/)
 - [GitHub Copilot Certification](https://www.credly.com/badges/3ce2f29e-b132-43a6-8183-582061666e59/)
-- **GitHub Foundations Certification**
+- [GitHub Foundations Certification](https://www.credly.com/badges/4bab3107-3c22-482d-a1be-a130a4a4c89d/)
 - **Kubecost Technical Certification**
 - **Microsoft Certified Azure DevOps Engineer Expert**
 - **Microsoft Certified Solutions Associate (MCSA)**
