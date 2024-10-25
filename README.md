@@ -59,7 +59,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - [Istio Service Mesh – KodeKloud](https://learn.kodekloud.com/user/certificate/6f917115-1fd5-4751-9b82-b4332d5ab9ac)
 - [Kustomize – KodeKloud](https://learn.kodekloud.com/user/certificate/3238ae3c-b642-42b7-9512-3b7d63683b36)
 - [Lens - Kubernetes IDE – KodeKloud](https://learn.kodekloud.com/user/certificate/96c6d981-4d6f-4acc-a898-0748f8f697c3)
-- **HashiCorp Consul – Udemy**
+- [HashiCorp Consul – Udemy](https://www.udemy.com/certificate/UC-a13c86ac-d64a-40e7-b658-68380b960e05/)
 - **Kubernetes Administrator – Edureka**
 - **Calico Virtualization Operator - Level 1 – Tigera**
 
