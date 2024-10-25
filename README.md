@@ -27,9 +27,7 @@ Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep e
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="130" height="30"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="130" height="30"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="130" height="30"/>
-  
-### 🌱 **Currently Learning**
-- Exploring advanced **Kubernetes** configurations, **GitOps** workflows
+
   
 ### 💼 **Professional Experience**
 I specialize in streamlining infrastructure management, automating provisioning, and ensuring secure, consistent cloud deployments across hybrid environments. By leveraging tools such as **Terraform** for Infrastructure as Code (IaC), **HashiCorp Vault** for secrets management, and **Ansible** for configuration management, I focus on driving operational efficiency and improving deployment pipelines.
@@ -46,9 +44,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - [GitHub Foundations Certification](https://www.credly.com/badges/4bab3107-3c22-482d-a1be-a130a4a4c89d/)
 - **Kubecost Technical Certification**
 - **Microsoft Certified Azure DevOps Engineer Expert**
-- **Microsoft Certified Solutions Associate (MCSA)**
-- **Microsoft Certified Professional (MCPS)**
-- **Microsoft Certified Solutions Expert (MCSE)**
+
 
 <p align="left">
 
@@ -60,7 +56,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 </p>
 
 ### 📘 **Courses Completed**
-- **Istio Service Mesh – KodeKloud**
+- [Istio Service Mesh – KodeKloud](https://learn.kodekloud.com/user/certificate/6f917115-1fd5-4751-9b82-b4332d5ab9ac)
 - **Kustomize – KodeKloud**
 - **Lens - Kubernetes IDE – KodeKloud**
 - **HashiCorp Consul – Udemy**
