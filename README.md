@@ -41,8 +41,8 @@ I specialize in streamlining infrastructure management, automating provisioning,
 ### 📜 **Certifications**
 - [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/cdb7ddae-becd-40ab-bd16-7be2d9f8c4d3/)
 - [HashiCorp Certified Vault Associate](https://www.credly.com/badges/5f4ebf9d-be6f-4c71-8236-1fae5fb029a2/)
-- **HashiCorp Certified Terraform Associate**
-- **GitHub Copilot Certification**
+- [HashiCorp Certified Terraform Associate](https://www.credly.com/badges/fb951e61-e2f1-4daf-95c1-f8c2c0ffa59b/)
+- [GitHub Copilot Certification](https://www.credly.com/badges/3ce2f29e-b132-43a6-8183-582061666e59/)
 - **GitHub Foundations Certification**
 - **Kubecost Technical Certification**
 - **Microsoft Certified Azure DevOps Engineer Expert**
