@@ -60,7 +60,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - [Kustomize – KodeKloud](https://learn.kodekloud.com/user/certificate/3238ae3c-b642-42b7-9512-3b7d63683b36)
 - [Lens - Kubernetes IDE – KodeKloud](https://learn.kodekloud.com/user/certificate/96c6d981-4d6f-4acc-a898-0748f8f697c3)
 - [HashiCorp Consul – Udemy](https://www.udemy.com/certificate/UC-a13c86ac-d64a-40e7-b658-68380b960e05/)
-- **Kubernetes Administrator – Edureka**
+- [Kubernetes Administrator – Edureka](https://www.edureka.co/my-certificate/38da833a1b834eb65a746bbfc73263d3)
 - **Calico Virtualization Operator - Level 1 – Tigera**
 
 
