@@ -56,12 +56,13 @@ I specialize in streamlining infrastructure management, automating provisioning,
 </p>
 
 ### 📘 **Courses Completed**
+- [Calico Virtualization Operator - Level 1 – Tigera](https://www.credly.com/badges/e4705361-636c-47c1-ba6d-984d620f7966/)
 - [Istio Service Mesh – KodeKloud](https://learn.kodekloud.com/user/certificate/6f917115-1fd5-4751-9b82-b4332d5ab9ac)
 - [Kustomize – KodeKloud](https://learn.kodekloud.com/user/certificate/3238ae3c-b642-42b7-9512-3b7d63683b36)
 - [Lens - Kubernetes IDE – KodeKloud](https://learn.kodekloud.com/user/certificate/96c6d981-4d6f-4acc-a898-0748f8f697c3)
 - [HashiCorp Consul – Udemy](https://www.udemy.com/certificate/UC-a13c86ac-d64a-40e7-b658-68380b960e05/)
 - [Kubernetes Administrator – Edureka](https://www.edureka.co/my-certificate/38da833a1b834eb65a746bbfc73263d3)
-- **Calico Virtualization Operator - Level 1 – Tigera**
+
 
 
 
