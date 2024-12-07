@@ -38,7 +38,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 
 ### 📜 **Certifications**
 - [AWS Certified AI Practitioner – Foundational](https://www.credly.com/badges/fac1ef21-c3f3-488a-ab7d-1be8c01ab428/)
-- [[AWS Certified AI Practitioner – Early Adaptor](https://www.credly.com/badges/989981f5-ba4a-4655-8744-75938114811b/)
+- [AWS Certified AI Practitioner – Early Adaptor](https://www.credly.com/badges/989981f5-ba4a-4655-8744-75938114811b/)
 - [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/cdb7ddae-becd-40ab-bd16-7be2d9f8c4d3/)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/33740b5b-54e0-4fbf-a2b0-eb799e7cd267/)
 - [HashiCorp Certified Vault Associate](https://www.credly.com/badges/5f4ebf9d-be6f-4c71-8236-1fae5fb029a2/)
@@ -50,7 +50,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 
 
 <p align="left">
-
+<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
