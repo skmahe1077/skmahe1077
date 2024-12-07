@@ -50,8 +50,11 @@ I specialize in streamlining infrastructure management, automating provisioning,
 
 
 <p align="left">
+  
+<img src="https://images.credly.com/size/340x340/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
