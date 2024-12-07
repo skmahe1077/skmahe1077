@@ -60,6 +60,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
 <img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="125" height="125">
 <img src="https://images.credly.com/size/340x340/images/cbf219bf-4637-4897-b0dd-620ac0246d98/blob" width="125" height="125">
+<img src="https://images.credly.com/size/340x340/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" width="125" height="125">
 
 </p>
 
@@ -70,6 +71,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - [Lens - Kubernetes IDE – KodeKloud](https://learn.kodekloud.com/user/certificate/96c6d981-4d6f-4acc-a898-0748f8f697c3)
 - [HashiCorp Consul – Udemy](https://www.udemy.com/certificate/UC-a13c86ac-d64a-40e7-b658-68380b960e05/)
 - [Kubernetes Administrator – Edureka](https://www.edureka.co/my-certificate/38da833a1b834eb65a746bbfc73263d3)
+- [LFC102: Inclusive Open Source Community Orientation](https://www.credly.com/earner/earned/badge/eb5e395e-b3c7-4931-b91e-2ff56a51fab5)
 
 
 
