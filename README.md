@@ -35,6 +35,11 @@ I specialize in streamlining infrastructure management, automating provisioning,
 ### 🏅 **Ambassador Roles**
 - **DevOps Institute Ambassador – DevOps Institute**
 - **Calico Big Cat Ambassador – Project Calico**
+- **Foundation Member – Finops**
+
+### **Organizer**
+- **West Midlands Hashicorp User Group**
+
 
 ### 📜 **Certifications**
 - [AWS Certified AI Practitioner – Foundational](https://www.credly.com/badges/fac1ef21-c3f3-488a-ab7d-1be8c01ab428/)
@@ -46,7 +51,6 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - [GitHub Copilot Certification](https://www.credly.com/badges/3ce2f29e-b132-43a6-8183-582061666e59/)
 - [GitHub Foundations Certification](https://www.credly.com/badges/4bab3107-3c22-482d-a1be-a130a4a4c89d/)
 - **Kubecost Technical Certification**
-- **Microsoft Certified Azure DevOps Engineer Expert**
 
 
 <p align="left">
