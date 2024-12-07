@@ -39,6 +39,8 @@ I specialize in streamlining infrastructure management, automating provisioning,
 
 ### **Organizer**
 **West Midlands Hashicorp User Group(HUG)**
+- [West Midlands Hashicorp User group - Meetup](https://www.meetup.com/west-midlands-hashicorp-user-group/)
+- [West Midlands Hashicorp User group - Linkedin](https://www.linkedin.com/company/west-midlands-hashicorp-user-group-hug/)
 
 
 
