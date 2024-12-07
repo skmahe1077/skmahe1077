@@ -38,7 +38,8 @@ I specialize in streamlining infrastructure management, automating provisioning,
 - **Foundation Member – Finops**
 
 ### **Organizer**
-- **West Midlands Hashicorp User Group**
+**West Midlands Hashicorp User Group(HUG)**
+
 
 
 ### 📜 **Certifications**
