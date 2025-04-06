@@ -35,7 +35,7 @@ I specialize in streamlining infrastructure management, automating provisioning,
 ### 🏅 **Ambassador Roles**
 - **HashiCorp Ambassador – HashiCorp**
 - **AWS Community Builder – AWS**
-- **Likerd Ambassador – AWS**
+- **Likerd Ambassador – Linkerd**
 - **DevOps Institute Ambassador – DevOps Institute**
 - **Calico Big Cat Ambassador – Project Calico**
 - **Foundation Member – Finops**
