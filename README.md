@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I'm an experienced **DevOps Engineer** with deep e
 I specialize in streamlining infrastructure management, automating provisioning, and ensuring secure, consistent cloud deployments across hybrid environments. By leveraging tools such as **Terraform** for Infrastructure as Code (IaC), **HashiCorp Vault** for secrets management, and **Ansible** for configuration management, I focus on driving operational efficiency and improving deployment pipelines.
 
 ### 🏅 **Ambassador Roles**
+- **HashiCorp Ambassador – HashiCorp**
+- **AWS Community Builder – AWS**
+- **Likerd Ambassador – AWS**
 - **DevOps Institute Ambassador – DevOps Institute**
 - **Calico Big Cat Ambassador – Project Calico**
 - **Foundation Member – Finops**
