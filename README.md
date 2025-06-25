@@ -44,6 +44,8 @@ I specialize in streamlining infrastructure management, automating provisioning,
 **West Midlands Hashicorp User Group(HUG)**
 - [West Midlands Hashicorp User group - Meetup](https://www.meetup.com/west-midlands-hashicorp-user-group/)
 - [West Midlands Hashicorp User group - Linkedin](https://www.linkedin.com/company/west-midlands-hashicorp-user-group-hug/)
+- [Cloud Native Birmingham ](https://community.cncf.io/cloud-native-birmingham/)
+- [Cloud Native Birmingham - Linkedin](https://www.linkedin.com/company/cloud-native-birmingham/)
 
 
 
